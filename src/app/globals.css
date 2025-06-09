@@ -1,0 +1,57 @@
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.container {
+  width: 100%;
+  max-width: 1090px;
+}
+
+.blue {
+  color: #3FA9F5;
+  font-weight: 900;
+  font-size: 56px;
+  padding-bottom: 5px;
+  /*border-bottom: #3FA9F5 5px solid;*/
+}
+
+/* Основной стиль скроллбара (работает в Chrome, Edge, Safari) */
+::-webkit-scrollbar {
+  width: 10px; /* Ширина вертикального скроллбара */
+  height: 10px; /* Высота горизонтального скроллбара */
+}
+
+/* Фон скроллбара */
+::-webkit-scrollbar-track {
+  background: #1a1a1a; /* Темный фон трека */
+  border-radius: 5px; /* Закругленные углы */
+}
+
+/* Ползунок скроллбара */
+::-webkit-scrollbar-thumb {
+  background: #444; /* Цвет ползунка */
+  border-radius: 5px; /* Закругленные углы */
+  border: 2px solid #1a1a1a; /* Отступ вокруг ползунка */
+}
+
+/* Ползунок при наведении */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; /* Светлее при наведении */
+}
+
+/* Для Firefox */
+* {
+  scrollbar-width: thin; /* "auto" | "thin" | "none" */
+  scrollbar-color: #444 #1a1a1a; /* thumb и track */
+}

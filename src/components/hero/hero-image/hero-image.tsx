@@ -1,0 +1,1 @@
+import styles from "./hero-image.module.scss"import "../../../styles/random-stripes.scss"export const HeroImage = () => {    return (        <div className={styles.heroImage}>            <img src={"/ipw.jpg"}                 className={styles.heroImageContent}                 alt={"none"}/>        </div>    )}

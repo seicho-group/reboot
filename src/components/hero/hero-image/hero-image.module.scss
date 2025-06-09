@@ -1,0 +1,1 @@
+.heroImage {  position: absolute;  z-index: -1;  top: 0;  left: 0;  width: 100%;  height: 100dvh;  background-color: #0d0c0c;  overflow: hidden;  .heroImageContent {    position: absolute;    width: 45%;    min-height: 100%;    left: 55%;    top: 0;    filter: contrast(1.2);    z-index: -1;    opacity: 0.6;  }  --second-color: #09141c;}

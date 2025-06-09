@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70a32d71-ec2e-436f-9b20-71ab2de23c61" name="Changes" comment="RBT-6: added hero section">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/reboot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eslint.config.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss.config.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/BG.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/file.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/globe.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/ip.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/ipw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/next.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/text.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vercel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/window.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/layout.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/header.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/hero/hero-image/hero-image.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/hero/hero-image/hero-image.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/hero/hero.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/hero/hero.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/promo-bar/promo-bar.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/promo-bar/promo-bar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/random-stripes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/button/button.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/button/button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Konstaphy&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/seicho-group/reboot.git&quot;,
+    &quot;accountId&quot;: &quot;4063226a-8433-4b37-a2de-31e8a9506efa&quot;
+  }
+}</component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2tos9C6PTe8LziOyrFEt1knfh0C" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/user/WebstormProjects/reboot/public",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "ts.external.directory.path": "C:\\Users\\user\\WebstormProjects\\reboot\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\WebstormProjects\reboot\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\WebstormProjects\reboot\public" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.18034.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70a32d71-ec2e-436f-9b20-71ab2de23c61" name="Changes" comment="" />
+      <created>1741029607923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741029607923</updated>
+      <workItem from="1741029608983" duration="1384000" />
+      <workItem from="1741183126456" duration="603000" />
+      <workItem from="1741251629141" duration="1137000" />
+      <workItem from="1741337947868" duration="9000" />
+      <workItem from="1742508418843" duration="2518000" />
+      <workItem from="1742806836970" duration="2068000" />
+      <workItem from="1749462482798" duration="182000" />
+      <workItem from="1749462681464" duration="11095000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="RBT-6: added hero section" />
+    <option name="LAST_COMMIT_MESSAGE" value="RBT-6: added hero section" />
+  </component>
+</project>
