@@ -5,34 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70a32d71-ec2e-436f-9b20-71ab2de23c61" name="Changes" comment="RBT-6: layed out">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Vector.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logowhite.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/og.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/cta/cta.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/cta/cta.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/footer/footer.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/footer/footer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/map/map.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/map/map.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/map/map.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/services/services.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/services/services.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hooks/use-is-mobile.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx.conf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/header.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/hero/hero-image/hero-image.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/hero/hero-image/hero-image.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/hero/hero.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/hero/hero.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/hero/hero.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/hero/hero.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/promo-bar/promo-bar.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/promo-bar/promo-bar.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/button/button.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/button/button.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/button/button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/button/button.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +90,7 @@
       <workItem from="1742806836970" duration="2068000" />
       <workItem from="1749462482798" duration="182000" />
       <workItem from="1749462681464" duration="11095000" />
-      <workItem from="1749492310622" duration="13874000" />
+      <workItem from="1749492310622" duration="14189000" />
     </task>
     <task id="LOCAL-00001" summary="RBT-6: added hero section">
       <option name="closed" value="true" />
@@ -125,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749492344270</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="RBT-6: layed out">
+      <option name="closed" value="true" />
+      <created>1749540460688</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749540460688</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
