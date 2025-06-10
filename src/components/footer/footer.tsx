@@ -1,0 +1,1 @@
+import styles from "./footer.module.scss"export const Footer = () => {    return <footer className={styles.footer}>        <p>ИП Канзафаров Айдар Салаватович</p>        <img src={"/logowhite.svg"} alt={"logo"}/>        <p>© 2025 ReBoot. Все права защищены</p>    </footer>}

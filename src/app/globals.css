@@ -13,6 +13,13 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
+.main {
+  display: flex;
+  flex-direction: column;
+  gap: 120px;
+  align-items: center;
+}
+
 .container {
   width: 100%;
   max-width: 1090px;
@@ -21,9 +28,7 @@ body {
 .blue {
   color: #3FA9F5;
   font-weight: 900;
-  font-size: 56px;
   padding-bottom: 5px;
-  /*border-bottom: #3FA9F5 5px solid;*/
 }
 
 /* Основной стиль скроллбара (работает в Chrome, Edge, Safari) */
